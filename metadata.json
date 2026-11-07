@@ -1,0 +1,6 @@
+{
+  "name": "Yantra Heavy Equipment",
+  "description": "Unified heavy equipment rental, fleet management, and spares marketplace ecosystem",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
